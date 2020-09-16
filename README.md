@@ -1,5 +1,6 @@
 # Introduction-to-UI-UX
-## Texas A&amp;M CSCE 436 - Human Computer Interaction Course Notes By Alyssa Dang
+## Texas A&amp;M CSCE 436
+## Human Computer Interaction Course Notes By Alyssa Dang
 
 ### Textbook 1: Interaction Design: Beyond Human-Computer Interaction
 4th Edition,Jenny Preece, Helen Sharp, Yvonne Rogers, Wiley, 2019
