@@ -1,6 +1,8 @@
 # Introduction-to-UI-UX
 ## Notes By Alyssa Dang
-## Resources: CSCE 315 Programming Studio, CSCE 431 Software Engineering, CSCE 436 Human Computer Interaction
+## Resources:
+
+### Texas A&M: CSCE 315 Programming Studio, CSCE 431 Software Engineering, CSCE 436 Human Computer Interaction
 
 ### Textbook 1: Interaction Design: Beyond Human-Computer Interaction
 4th Edition, Jenny Preece, Helen Sharp, Yvonne Rogers, Wiley, 2019
