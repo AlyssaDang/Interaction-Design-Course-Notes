@@ -3,7 +3,7 @@
 ## Resources List
 
 ### Texas A&M University: 
-##### CSCE 315 Programming Studio, CSCE 431 Software Engineering, CSCE 436 Human Computer Interaction
+##### CSCE 315 Programming Studio, CSCE 431 Software Engineering, CSCE 436 Human Computer Interaction, CSCE 445 Computers and New Media
 
 ### Textbook 1: Interaction Design: Beyond Human-Computer Interaction
 4th Edition, Jenny Preece, Helen Sharp, Yvonne Rogers, Wiley, 2019
